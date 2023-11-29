@@ -1,0 +1,265 @@
+Fish Species,Price,Grade,Catching Method,Sustainability,Actual Price
+Bawal Hitam,36000,B,Farmed,Moderately sustainable,30000
+Bawal Putih,72000,B,Farmed,Moderately sustainable,60000
+Cakalang,30000,B,Farmed,Moderately sustainable,25000
+Kakap Merah,66000,B,Farmed,Moderately sustainable,55000
+Kembung,30000,B,Farmed,Moderately sustainable,25000
+Kerapu,96000,B,Farmed,Moderately sustainable,80000
+Kuwe,84000,B,Farmed,Moderately sustainable,70000
+Makerel,36000,B,Farmed,Moderately sustainable,30000
+Salmon,336000,B,Farmed,Moderately sustainable,280000
+Tenggiri,72000,B,Farmed,Moderately sustainable,60000
+Tongkol,45600,B,Farmed,Moderately sustainable,38000
+Bawal Hitam,43200,A,Farmed,Moderately sustainable,30000
+Bawal Putih,86400,A,Farmed,Moderately sustainable,60000
+Cakalang,36000,A,Farmed,Moderately sustainable,25000
+Kakap Merah,79200,A,Farmed,Moderately sustainable,55000
+Kembung,36000,A,Farmed,Moderately sustainable,25000
+Kerapu,115200,A,Farmed,Moderately sustainable,80000
+Kuwe,100800,A,Farmed,Moderately sustainable,70000
+Makerel,43200,A,Farmed,Moderately sustainable,30000
+Salmon,403200,A,Farmed,Moderately sustainable,280000
+Tenggiri,86400,A,Farmed,Moderately sustainable,60000
+Tongkol,54720,A,Farmed,Moderately sustainable,38000
+Bawal Hitam,18000,C,Farmed,Moderately sustainable,30000
+Bawal Putih,36000,C,Farmed,Moderately sustainable,60000
+Cakalang,15000,C,Farmed,Moderately sustainable,25000
+Kakap Merah,33000,C,Farmed,Moderately sustainable,55000
+Kembung,15000,C,Farmed,Moderately sustainable,25000
+Kerapu,48000,C,Farmed,Moderately sustainable,80000
+Kuwe,42000,C,Farmed,Moderately sustainable,70000
+Makerel,18000,C,Farmed,Moderately sustainable,30000
+Salmon,168000,C,Farmed,Moderately sustainable,280000
+Tenggiri,36000,C,Farmed,Moderately sustainable,60000
+Tongkol,22800,C,Farmed,Moderately sustainable,38000
+Bawal Hitam,30000,B,Netting,Moderately sustainable,30000
+Bawal Putih,60000,B,Netting,Moderately sustainable,60000
+Cakalang,25000,B,Netting,Moderately sustainable,25000
+Kakap Merah,55000,B,Netting,Moderately sustainable,55000
+Kembung,25000,B,Netting,Moderately sustainable,25000
+Kerapu,80000,B,Netting,Moderately sustainable,80000
+Kuwe,70000,B,Netting,Moderately sustainable,70000
+Makerel,30000,B,Netting,Moderately sustainable,30000
+Salmon,280000,B,Netting,Moderately sustainable,280000
+Tenggiri,60000,B,Netting,Moderately sustainable,60000
+Tongkol,38000,B,Netting,Moderately sustainable,38000
+Bawal Hitam,36000,A,Netting,Moderately sustainable,30000
+Bawal Putih,72000,A,Netting,Moderately sustainable,60000
+Cakalang,30000,A,Netting,Moderately sustainable,25000
+Kakap Merah,66000,A,Netting,Moderately sustainable,55000
+Kembung,30000,A,Netting,Moderately sustainable,25000
+Kerapu,96000,A,Netting,Moderately sustainable,80000
+Kuwe,84000,A,Netting,Moderately sustainable,70000
+Makerel,36000,A,Netting,Moderately sustainable,30000
+Salmon,336000,A,Netting,Moderately sustainable,280000
+Tenggiri,72000,A,Netting,Moderately sustainable,60000
+Tongkol,45600,A,Netting,Moderately sustainable,38000
+Bawal Hitam,15000,C,Netting,Moderately sustainable,30000
+Bawal Putih,30000,C,Netting,Moderately sustainable,60000
+Cakalang,12500,C,Netting,Moderately sustainable,25000
+Kakap Merah,27500,C,Netting,Moderately sustainable,55000
+Kembung,12500,C,Netting,Moderately sustainable,25000
+Kerapu,40000,C,Netting,Moderately sustainable,80000
+Kuwe,35000,C,Netting,Moderately sustainable,70000
+Makerel,15000,C,Netting,Moderately sustainable,30000
+Salmon,140000,C,Netting,Moderately sustainable,280000
+Tenggiri,30000,C,Netting,Moderately sustainable,60000
+Tongkol,19000,C,Netting,Moderately sustainable,38000
+Bawal Hitam,18000,B,Spearfishing,Moderately sustainable,30000
+Bawal Putih,36000,B,Spearfishing,Moderately sustainable,60000
+Cakalang,15000,B,Spearfishing,Moderately sustainable,25000
+Kakap Merah,33000,B,Spearfishing,Moderately sustainable,55000
+Kembung,15000,B,Spearfishing,Moderately sustainable,25000
+Kerapu,48000,B,Spearfishing,Moderately sustainable,80000
+Kuwe,42000,B,Spearfishing,Moderately sustainable,70000
+Makerel,18000,B,Spearfishing,Moderately sustainable,30000
+Salmon,168000,B,Spearfishing,Moderately sustainable,280000
+Tenggiri,36000,B,Spearfishing,Moderately sustainable,60000
+Tongkol,22800,B,Spearfishing,Moderately sustainable,38000
+Bawal Hitam,21600,A,Spearfishing,Moderately sustainable,30000
+Bawal Putih,43200,A,Spearfishing,Moderately sustainable,60000
+Cakalang,18000,A,Spearfishing,Moderately sustainable,25000
+Kakap Merah,39600,A,Spearfishing,Moderately sustainable,55000
+Kembung,18000,A,Spearfishing,Moderately sustainable,25000
+Kerapu,57600,A,Spearfishing,Moderately sustainable,80000
+Kuwe,50400,A,Spearfishing,Moderately sustainable,70000
+Makerel,21600,A,Spearfishing,Moderately sustainable,30000
+Salmon,201600,A,Spearfishing,Moderately sustainable,280000
+Tenggiri,43200,A,Spearfishing,Moderately sustainable,60000
+Tongkol,27360,A,Spearfishing,Moderately sustainable,38000
+Bawal Hitam,9000,C,Spearfishing,Moderately sustainable,30000
+Bawal Putih,18000,C,Spearfishing,Moderately sustainable,60000
+Cakalang,7500,C,Spearfishing,Moderately sustainable,25000
+Kakap Merah,16500,C,Spearfishing,Moderately sustainable,55000
+Kembung,7500,C,Spearfishing,Moderately sustainable,25000
+Kerapu,24000,C,Spearfishing,Moderately sustainable,80000
+Kuwe,21000,C,Spearfishing,Moderately sustainable,70000
+Makerel,9000,C,Spearfishing,Moderately sustainable,30000
+Salmon,84000,C,Spearfishing,Moderately sustainable,280000
+Tenggiri,18000,C,Spearfishing,Moderately sustainable,60000
+Tongkol,11400,C,Spearfishing,Moderately sustainable,38000
+Bawal Hitam,24000,B,Fishing Hook,Moderately sustainable,30000
+Bawal Putih,48000,B,Fishing Hook,Moderately sustainable,60000
+Cakalang,20000,B,Fishing Hook,Moderately sustainable,25000
+Kakap Merah,44000,B,Fishing Hook,Moderately sustainable,55000
+Kembung,20000,B,Fishing Hook,Moderately sustainable,25000
+Kerapu,64000,B,Fishing Hook,Moderately sustainable,80000
+Kuwe,56000,B,Fishing Hook,Moderately sustainable,70000
+Makerel,24000,B,Fishing Hook,Moderately sustainable,30000
+Salmon,224000,B,Fishing Hook,Moderately sustainable,280000
+Tenggiri,48000,B,Fishing Hook,Moderately sustainable,60000
+Tongkol,30400,B,Fishing Hook,Moderately sustainable,38000
+Bawal Hitam,28800,A,Fishing Hook,Moderately sustainable,30000
+Bawal Putih,57600,A,Fishing Hook,Moderately sustainable,60000
+Cakalang,24000,A,Fishing Hook,Moderately sustainable,25000
+Kakap Merah,52800,A,Fishing Hook,Moderately sustainable,55000
+Kembung,24000,A,Fishing Hook,Moderately sustainable,25000
+Kerapu,76800,A,Fishing Hook,Moderately sustainable,80000
+Kuwe,67200,A,Fishing Hook,Moderately sustainable,70000
+Makerel,28800,A,Fishing Hook,Moderately sustainable,30000
+Salmon,268800,A,Fishing Hook,Moderately sustainable,280000
+Tenggiri,57600,A,Fishing Hook,Moderately sustainable,60000
+Tongkol,36480,A,Fishing Hook,Moderately sustainable,38000
+Bawal Hitam,12000,C,Fishing Hook,Moderately sustainable,30000
+Bawal Putih,24000,C,Fishing Hook,Moderately sustainable,60000
+Cakalang,10000,C,Fishing Hook,Moderately sustainable,25000
+Kakap Merah,22000,C,Fishing Hook,Moderately sustainable,55000
+Kembung,10000,C,Fishing Hook,Moderately sustainable,25000
+Kerapu,32000,C,Fishing Hook,Moderately sustainable,80000
+Kuwe,28000,C,Fishing Hook,Moderately sustainable,70000
+Makerel,12000,C,Fishing Hook,Moderately sustainable,30000
+Salmon,112000,C,Fishing Hook,Moderately sustainable,280000
+Tenggiri,24000,C,Fishing Hook,Moderately sustainable,60000
+Tongkol,15200,C,Fishing Hook,Moderately sustainable,38000
+Bawal Hitam,28800,B,Farmed,Unsustainable,30000
+Bawal Putih,57600,B,Farmed,Unsustainable,60000
+Cakalang,24000,B,Farmed,Unsustainable,25000
+Kakap Merah,52800,B,Farmed,Unsustainable,55000
+Kembung,24000,B,Farmed,Unsustainable,25000
+Kerapu,76800,B,Farmed,Unsustainable,80000
+Kuwe,67200,B,Farmed,Unsustainable,70000
+Makerel,28800,B,Farmed,Unsustainable,30000
+Salmon,268800,B,Farmed,Unsustainable,280000
+Tenggiri,57600,B,Farmed,Unsustainable,60000
+Tongkol,36480,B,Farmed,Unsustainable,38000
+Bawal Hitam,34560,A,Farmed,Unsustainable,30000
+Bawal Putih,69120,A,Farmed,Unsustainable,60000
+Cakalang,28800,A,Farmed,Unsustainable,25000
+Kakap Merah,63360,A,Farmed,Unsustainable,55000
+Kembung,28800,A,Farmed,Unsustainable,25000
+Kerapu,92160,A,Farmed,Unsustainable,80000
+Kuwe,80640,A,Farmed,Unsustainable,70000
+Makerel,34560,A,Farmed,Unsustainable,30000
+Salmon,322560,A,Farmed,Unsustainable,280000
+Tenggiri,69120,A,Farmed,Unsustainable,60000
+Tongkol,43776,A,Farmed,Unsustainable,38000
+Bawal Hitam,14400,C,Farmed,Unsustainable,30000
+Bawal Putih,28800,C,Farmed,Unsustainable,60000
+Cakalang,12000,C,Farmed,Unsustainable,25000
+Kakap Merah,26400,C,Farmed,Unsustainable,55000
+Kembung,12000,C,Farmed,Unsustainable,25000
+Kerapu,38400,C,Farmed,Unsustainable,80000
+Kuwe,33600,C,Farmed,Unsustainable,70000
+Makerel,14400,C,Farmed,Unsustainable,30000
+Salmon,134400,C,Farmed,Unsustainable,280000
+Tenggiri,28800,C,Farmed,Unsustainable,60000
+Tongkol,18240,C,Farmed,Unsustainable,38000
+Bawal Hitam,24000,B,Netting,Unsustainable,30000
+Bawal Putih,48000,B,Netting,Unsustainable,60000
+Cakalang,20000,B,Netting,Unsustainable,25000
+Kakap Merah,44000,B,Netting,Unsustainable,55000
+Kembung,20000,B,Netting,Unsustainable,25000
+Kerapu,64000,B,Netting,Unsustainable,80000
+Kuwe,56000,B,Netting,Unsustainable,70000
+Makerel,24000,B,Netting,Unsustainable,30000
+Salmon,224000,B,Netting,Unsustainable,280000
+Tenggiri,48000,B,Netting,Unsustainable,60000
+Tongkol,30400,B,Netting,Unsustainable,38000
+Bawal Hitam,28800,A,Netting,Unsustainable,30000
+Bawal Putih,57600,A,Netting,Unsustainable,60000
+Cakalang,24000,A,Netting,Unsustainable,25000
+Kakap Merah,52800,A,Netting,Unsustainable,55000
+Kembung,24000,A,Netting,Unsustainable,25000
+Kerapu,76800,A,Netting,Unsustainable,80000
+Kuwe,67200,A,Netting,Unsustainable,70000
+Makerel,28800,A,Netting,Unsustainable,30000
+Salmon,268800,A,Netting,Unsustainable,280000
+Tenggiri,57600,A,Netting,Unsustainable,60000
+Tongkol,36480,A,Netting,Unsustainable,38000
+Bawal Hitam,12000,C,Netting,Unsustainable,30000
+Bawal Putih,24000,C,Netting,Unsustainable,60000
+Cakalang,10000,C,Netting,Unsustainable,25000
+Kakap Merah,22000,C,Netting,Unsustainable,55000
+Kembung,10000,C,Netting,Unsustainable,25000
+Kerapu,32000,C,Netting,Unsustainable,80000
+Kuwe,28000,C,Netting,Unsustainable,70000
+Makerel,12000,C,Netting,Unsustainable,30000
+Salmon,112000,C,Netting,Unsustainable,280000
+Tenggiri,24000,C,Netting,Unsustainable,60000
+Tongkol,15200,C,Netting,Unsustainable,38000
+Bawal Hitam,14400,B,Spearfishing,Unsustainable,30000
+Bawal Putih,28800,B,Spearfishing,Unsustainable,60000
+Cakalang,12000,B,Spearfishing,Unsustainable,25000
+Kakap Merah,26400,B,Spearfishing,Unsustainable,55000
+Kembung,12000,B,Spearfishing,Unsustainable,25000
+Kerapu,38400,B,Spearfishing,Unsustainable,80000
+Kuwe,33600,B,Spearfishing,Unsustainable,70000
+Makerel,14400,B,Spearfishing,Unsustainable,30000
+Salmon,134400,B,Spearfishing,Unsustainable,280000
+Tenggiri,28800,B,Spearfishing,Unsustainable,60000
+Tongkol,18240,B,Spearfishing,Unsustainable,38000
+Bawal Hitam,17280,A,Spearfishing,Unsustainable,30000
+Bawal Putih,34560,A,Spearfishing,Unsustainable,60000
+Cakalang,14400,A,Spearfishing,Unsustainable,25000
+Kakap Merah,31680,A,Spearfishing,Unsustainable,55000
+Kembung,14400,A,Spearfishing,Unsustainable,25000
+Kerapu,46080,A,Spearfishing,Unsustainable,80000
+Kuwe,40320,A,Spearfishing,Unsustainable,70000
+Makerel,17280,A,Spearfishing,Unsustainable,30000
+Salmon,161280,A,Spearfishing,Unsustainable,280000
+Tenggiri,34560,A,Spearfishing,Unsustainable,60000
+Tongkol,21888,A,Spearfishing,Unsustainable,38000
+Bawal Hitam,7200,C,Spearfishing,Unsustainable,30000
+Bawal Putih,14400,C,Spearfishing,Unsustainable,60000
+Cakalang,6000,C,Spearfishing,Unsustainable,25000
+Kakap Merah,13200,C,Spearfishing,Unsustainable,55000
+Kembung,6000,C,Spearfishing,Unsustainable,25000
+Kerapu,19200,C,Spearfishing,Unsustainable,80000
+Kuwe,16800,C,Spearfishing,Unsustainable,70000
+Makerel,7200,C,Spearfishing,Unsustainable,30000
+Salmon,67200,C,Spearfishing,Unsustainable,280000
+Tenggiri,14400,C,Spearfishing,Unsustainable,60000
+Tongkol,9120,C,Spearfishing,Unsustainable,38000
+Bawal Hitam,19200,B,Fishing Hook,Unsustainable,30000
+Bawal Putih,38400,B,Fishing Hook,Unsustainable,60000
+Cakalang,16000,B,Fishing Hook,Unsustainable,25000
+Kakap Merah,35200,B,Fishing Hook,Unsustainable,55000
+Kembung,16000,B,Fishing Hook,Unsustainable,25000
+Kerapu,51200,B,Fishing Hook,Unsustainable,80000
+Kuwe,44800,B,Fishing Hook,Unsustainable,70000
+Makerel,19200,B,Fishing Hook,Unsustainable,30000
+Salmon,179200,B,Fishing Hook,Unsustainable,280000
+Tenggiri,38400,B,Fishing Hook,Unsustainable,60000
+Tongkol,24320,B,Fishing Hook,Unsustainable,38000
+Bawal Hitam,23040,A,Fishing Hook,Unsustainable,30000
+Bawal Putih,46080,A,Fishing Hook,Unsustainable,60000
+Cakalang,19200,A,Fishing Hook,Unsustainable,25000
+Kakap Merah,42240,A,Fishing Hook,Unsustainable,55000
+Kembung,19200,A,Fishing Hook,Unsustainable,25000
+Kerapu,61440,A,Fishing Hook,Unsustainable,80000
+Kuwe,53760,A,Fishing Hook,Unsustainable,70000
+Makerel,23040,A,Fishing Hook,Unsustainable,30000
+Salmon,215040,A,Fishing Hook,Unsustainable,280000
+Tenggiri,46080,A,Fishing Hook,Unsustainable,60000
+Tongkol,29184,A,Fishing Hook,Unsustainable,38000
+Bawal Hitam,9600,C,Fishing Hook,Unsustainable,30000
+Bawal Putih,19200,C,Fishing Hook,Unsustainable,60000
+Cakalang,8000,C,Fishing Hook,Unsustainable,25000
+Kakap Merah,17600,C,Fishing Hook,Unsustainable,55000
+Kembung,8000,C,Fishing Hook,Unsustainable,25000
+Kerapu,25600,C,Fishing Hook,Unsustainable,80000
+Kuwe,22400,C,Fishing Hook,Unsustainable,70000
+Makerel,9600,C,Fishing Hook,Unsustainable,30000
+Salmon,89600,C,Fishing Hook,Unsustainable,280000
+Tenggiri,19200,C,Fishing Hook,Unsustainable,60000
+Tongkol,12160,C,Fishing Hook,Unsustainable,38000
